@@ -44,4 +44,6 @@ The proxy server serves as a **middleman** between clients and destination web s
 ---
 
 ## Server,Proxy and Client Outputs
-![Circuit](circuit_diagram.jpg)
+![Server](Server_Process.png)
+![Proxy](Proxy_Process.png)
+![Client](Client_Process.png)
